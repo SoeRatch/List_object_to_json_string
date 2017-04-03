@@ -1,0 +1,27 @@
+{
+    "category": "incident",
+    "path": "incident",
+    "children": [
+        {
+            "category": "sapsystemusage",
+            "path": "incident/sapsystemusage",
+            "children": null
+        },
+        {
+            "category": "securityauditlog",
+            "path": "incident/securityauditlog",
+            "children": null
+        },
+        {
+            "category": "gateway",
+            "path": "incident/gateway",
+            "children": [
+                {
+                    "category": "registeredservers",
+                    "path": "incident/gateway/registeredservers",
+                    "children": null
+                }
+            ]
+        }
+    ]
+}
