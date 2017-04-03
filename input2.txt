@@ -1,0 +1,1 @@
+["configuration/forbiddenpwd", "configuration/clientsettings","configuration/profileparameter", "configuration/defaultuserpwd","configuration/tablelogging","configuration/devaccess","configuration/gateway","configuration/gateway/secinfo","configuration/gateway/reginfo"]
